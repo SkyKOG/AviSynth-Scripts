@@ -1,13 +1,6 @@
 AviSynth-Scripts
 ================
 
-Scripts used during my encoding days ....
-
-Well basically a collection of some(like less than 2%) of my AviSynth script files which i wrote to encode :
--Blurays
--DVDs
--MVIDs
--Primary Rips
 http://avisynth.org/mediawiki/Main_Page
 
 Using MeGUI as a primary encoding tool (frontend)... 
